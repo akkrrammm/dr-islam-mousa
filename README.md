@@ -1,5 +1,9 @@
 # Dr. Islam Mousa — Orthopedic Surgeon Website
 
+[![Dr. Islam Mousa website](https://raw.githubusercontent.com/akkrrammm/akkrrammm/main/assets/islam-mousa.jpg)](https://dr-islammousa.com/en)
+
+🔗 **Live site:** [dr-islammousa.com](https://dr-islammousa.com/en)
+
 A premium, bilingual (Arabic/English) medical website built with Next.js 16
 (App Router), React 19 and TypeScript. Home page is fully built; the
 architecture is ready for About, Services, Videos, Articles and Contact.
